@@ -12,6 +12,8 @@ Deliverable 1):
 
   * Major Point 2: The total number of retiring employees is "90,398."
 
+https://github.com/Dmstrause43/Pewlett-Hackard-Analysis/issues/1#issue-816141355
+
 Deliverable 2):
 
   * Major Point 1: Based off the number of number of employees that are eligible for the mentorship program, the Staff and Engineer departments will have many mentors to help develop them into more highly trained and productive employees due to the high number of Senior Staff and Senior Engineer employees.
