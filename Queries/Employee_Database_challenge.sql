@@ -24,3 +24,26 @@ Into retiring_titles
 From unique_titles as ut
 Group By ut.title
 Order By Count DESC;
+
+Select Distinct On (e.emp_no) e.emp_no,
+e.first_name,
+e.last_name,
+e.birth_date,
+de.from_date,
+de.to_date,
+ti.title
+-- Into mentorship_eligibility
+From employees as e
+    Inner Join dept_emp as de
+        On (e.emp_no = de.emp_no)
+    Inner Join titles as ti
+        On (de.emp_no = ti.emp_no)
+Where (e.birth_date Between '1965-01-01' And '1965-12-31')
+And (de.to_date = '9999-01-01')
+Order By e.emp_no, ti.to_date DESC;
+
+Select Count (me.title), me.title
+Into mentorship_titles
+From mentorship_eligibility as me
+Group By me.title
+Order By Count DESC;
