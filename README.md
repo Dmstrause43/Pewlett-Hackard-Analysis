@@ -22,6 +22,8 @@ Deliverable 2):
 
   * Major Point 2: There are a total of "1,549" employees that qualify for the mentorship program.
 
+![mentorship_titles_sum](https://user-images.githubusercontent.com/75653952/109114343-1a03dc80-7703-11eb-8246-065b4fa11dcc.png)
+
 ## Summary
 
 The total amount of roles that will need to be filled as the "silver tsunami" begins to make an impact is "90,398." 
