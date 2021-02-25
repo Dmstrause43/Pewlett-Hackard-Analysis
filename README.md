@@ -12,7 +12,7 @@ Deliverable 1):
 
   * Major Point 2: The total number of retiring employees is "90,398."
 
-
+![retiring_titles_sum](https://user-images.githubusercontent.com/75653952/109114485-58010080-7703-11eb-969a-5b25a1d848e0.png)
 
 Deliverable 2):
 
