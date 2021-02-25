@@ -20,6 +20,8 @@ Deliverable 2):
 
   * Major Point 1: Based off the number of number of employees that are eligible for the mentorship program, the Staff and Engineer departments will have many mentors to help develop them into more highly trained and productive employees due to the high number of Senior Staff and Senior Engineer employees.
 
+![mentorship_titles_count](https://user-images.githubusercontent.com/75653952/109114265-ff316800-7702-11eb-8d88-80398bef3ecd.png)
+
   * Major Point 2: There are a total of "1,549" employees that qualify for the mentorship program.
 
 ![mentorship_titles_sum](https://user-images.githubusercontent.com/75653952/109114343-1a03dc80-7703-11eb-8246-065b4fa11dcc.png)
