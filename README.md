@@ -10,6 +10,8 @@ Deliverable 1):
 
   * Major Point 1: The departments that will be most affected by the "silver tsunami" are the Senior Engineer, Senior Staff, Engineer, and Staff titles with over 10,000 employees. The titles that aren't as affected are the Technique Leader, Assistant Engineer, and Manager titles with less than 5,000 employees and the Manager position being only 2 employees.
 
+![retiring_titles_count](https://user-images.githubusercontent.com/75653952/109114389-2d16ac80-7703-11eb-9fa2-81e911fbdb1a.png)
+
   * Major Point 2: The total number of retiring employees is "90,398."
 
 ![retiring_titles_sum](https://user-images.githubusercontent.com/75653952/109114485-58010080-7703-11eb-969a-5b25a1d848e0.png)
