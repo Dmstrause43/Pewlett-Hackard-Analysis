@@ -12,7 +12,7 @@ Deliverable 1):
 
   * Major Point 2: The total number of retiring employees is "90,398."
 
-https://github.com/Dmstrause43/Pewlett-Hackard-Analysis/issues/1#issue-816141355
+
 
 Deliverable 2):
 
